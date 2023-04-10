@@ -1,12 +1,12 @@
 {
-  "name": "execut/yii2-1c-odata",
+  "name": "ildarbahtigozin/yii2-1c-odata",
   "description": "Yii2 component for work with 1C oData via activeRecord",
   "keywords": ["yii2", "odata", "activeRecord"],
   "type": "yii2-extension",
   "license": "Apache-2.0",
   "support": {
-    "issues": "https://github.com/execut/yii2-1c-odata/issues",
-    "source": "https://github.com/execut/yii2-1c-odata"
+    "issues": "https://github.com/ildarbahtigozin/yii2-1c-odata/issues",
+    "source": "https://github.com/ildarbahtigozin/yii2-1c-odata"
   },
   "authors": [
     {
