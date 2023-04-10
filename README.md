@@ -25,7 +25,7 @@ Add to application config folowing rules:
 [
     'components' => [
         'oData' => [
-            'class' => \execut\oData\Client::class,
+            'class' => \ildarbahtigozin\oData\Client::class,
             'host' => $odataHost,
             'path' => $odataPath,
             'options' => [
@@ -48,7 +48,7 @@ Add to application config folowing rules:
 After configuration, you must declare your models and queries on the basis of two classes:
 execut\oData\ActiveRecord and execut\oData\ActiveQuery
 
-Example model for standard document ЧекККМ ([source here](https://github.com/execut/yii2-1c-odata/tree/master/docs/models)): 
+Example model for standard document ЧекККМ ([source here](https://github.com/ildarbahtigozin/yii2-1c-odata/tree/master/docs/models)): 
 ```php
 use execut\oData\ActiveRecord;
 
