@@ -8,13 +8,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ php composer.phar require execut/yii2-1c-odata "dev-master"
+$ composer require ildarbahtigozin/yii2-1c-odata "dev-master"
 ```
 
 or add
 
 ```
-"execut/yii2-1c-odata": "dev-master"
+"ildarbahtigozin/yii2-1c-odata": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
