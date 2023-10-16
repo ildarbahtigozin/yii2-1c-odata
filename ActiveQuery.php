@@ -203,7 +203,7 @@ class ActiveQuery extends \yii\db\ActiveQuery
             }
 
             $attribute = trim($attribute, '\'');
-            $attribute = '\'' . $attribute . '\'';
+       //     $attribute = '\'' . $attribute . '\'';
             if ($direction === SORT_ASC) {
                 $direction = 'asc';
             } else {
